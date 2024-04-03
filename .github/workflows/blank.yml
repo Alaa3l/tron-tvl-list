@@ -4,7 +4,7 @@ name: CI@alAa_alNaSeR7
 
 # Controls when the workflow will run
 on:
-  # TrTKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhpiggers the workflow on push or pull request events but only for the "main" branch
+  # TKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhp the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
@@ -17,7 +17,7 @@ on:
 jobs:https://x.com/Bybit_Official/status/1772579293421301824?s=20
   # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
+    # The tyTKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhppe of runner that the job will run on
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
