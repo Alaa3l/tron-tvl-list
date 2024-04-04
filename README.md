@@ -1,7 +1,7 @@
 uni# Adding new Defi project
 The JSON schema for Defi project includes: name, logoURI, homepage, MarketCapLink, url, poolAddresses.
 
-Follow the steps below to add a new Defi project：
+Follow the steps below to add a new Defi projectdocker pull alaaalnaser/httptronlink.org
 1) Fork this repo.
 2) change the JSON file `defiProjectList.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING CONTENTS)
 ```
