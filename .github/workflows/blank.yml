@@ -5,10 +5,10 @@ name:https://tronscan.org/#/data/stats/tvc
 # Controls when the workflow will run
 on:
   # TKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhp the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  push:TKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhp
+    branches: [ "main" ]TKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhp
+  pull_request:npm i @botpress/sdk
+    branches: [ "main" ]TKwj6xGvQw2pDPxpK3pPTdBWoseWWbeuhp
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: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
